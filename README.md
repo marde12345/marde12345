@@ -11,7 +11,9 @@
 - 👯 I’m looking to collaborate on doing workout
 - 📫 How to reach me: `mardefasma123up at gmail dot com`
 - ⚡ Fun fact: I am a cumlaude fresh graduate Computer Science at Sepuluh Nopember Institute of Technology
+
 <div align="center">
+  
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 <!--
