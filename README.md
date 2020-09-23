@@ -22,6 +22,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marde12345&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 -->
-
+<br>
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
