@@ -6,26 +6,14 @@
 
 ### Hold up :cop:
 
-- 🔭 I’m currently working on Facial Expression Recognition
-- 🌱 I’m currently learning to enter Police Academy
-- 👯 I’m looking to collaborate on doing workout
-- 📫 How to reach me: `mardefasma123up at gmail dot com`
-- ⚡ Fun fact: I am a cumlaude fresh graduate Computer Science at Sepuluh Nopember Institute of Technology
+- 🔭 I’m currently working at Byte Dance (E-Commerce/Tokopedia)
+- 🌱 I’m currently learning to get a master's degree
+- 👯 I’m looking to collaborate on doing freediving and hiking
+- ⚡ Fun fact: Dont believe in the contribution activity below, greener on real activity every time I push a lot of PR hahaha
+- 📫 How to reach me: `mardefasma123up@gmail.com` or `mardefasmau@gmail.com`
+- Working git (https://github.com/mardefasma), personal git (https://github.com/marde12345)
 
 <div align="center">
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
-<!--
-<a href="https://github.com/marde12345/marde12345">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marde12345&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
--->
-<!--
-<a href="https://github.com/marde12345/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marde12345&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/marde12345/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marde12345&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
--->
